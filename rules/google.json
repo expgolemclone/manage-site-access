@@ -1,0 +1,5 @@
+{
+  "hosts": ["google.com", "www.google.com"],
+  "includeSubdomains": false,
+  "paths": ["/", "/webhp", "/search"]
+}
